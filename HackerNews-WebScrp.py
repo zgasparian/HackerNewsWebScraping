@@ -32,3 +32,4 @@ for article in body.find_all('tr', class_='athing'):
 csv_file.close()
 end=time.time()
 print(f'{end - start} Seconds took to run the script')
+#Done
